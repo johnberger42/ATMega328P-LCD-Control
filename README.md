@@ -7,4 +7,4 @@ The example folder contains a version of this library setup to run while wired t
 
 This code was written using the MPLab X IDE and avr libc compiler version 5.4
 
-All information utilized for the code was taken from teh ATMega328P data sheet and the datasheet for 1602 series LCD displays such as [this one](https://www.sparkfun.com/products/255)
+All information utilized in writing the code was taken from the ATMega328P data sheet and the datasheet for 1602 series LCD displays such as [this one](https://www.sparkfun.com/products/255)
